@@ -1,0 +1,1 @@
+My web scraping projects. Bookscraper is a sample web scraper built using scrapy. The rest are all sample datasets that I have scraped.
