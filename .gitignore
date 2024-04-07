@@ -1,8 +1,0 @@
-__pycache__/
-*.pyc
-api_key.py
-scrape_ops_middleware.py
-**/settings.py
-**/middlewares.py
-.gitignore
-pokescraper/
