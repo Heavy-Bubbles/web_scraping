@@ -1,0 +1,1 @@
+Data of pokemon I scraped from https://bulbapedia.bulbagarden.net

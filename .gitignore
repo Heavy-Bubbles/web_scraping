@@ -5,3 +5,4 @@ scrape_ops_middleware.py
 **/settings.py
 **/middlewares.py
 .gitignore
+pokescraper/
